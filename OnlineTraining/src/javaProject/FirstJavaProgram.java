@@ -28,7 +28,7 @@ public class FirstJavaProgram {
 	}
 	
 	public static void bMethod() {
-		System.out.println("Hellow b Method");
+		System.out.println("Hello b Method");
 		int d = 7;
 		System.out.println(d);
 	}
