@@ -54,6 +54,18 @@ public class RadioButton {
 			}
 
 		}
+		
+		Thread.sleep(2000);
+		List<WebElement> radios2 = driver.findElements(By.xpath("//label[@class='_58mt']"));
+		System.out.println("Total Radio buttons:" + radios2.size());
+		String ExpResult2 = "Custom";
+		for (int j = 0; j < radios2.size(); j++) {
+			if (radios2.get(j).getText().equalsIgnoreCase(ExpResult2)) {
+				radios2.get(j).click();
+				System.out.println(ExpResult1 + " clicked");
+			}
+
+		}
 
 	}
 

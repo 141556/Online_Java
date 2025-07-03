@@ -1,0 +1,51 @@
+2025-07-02 21:49:55,165 - Log4JLogging -INFO - Opened Browser Instance
+2025-07-02 21:51:25,962 - Log4JLogging -INFO - Opened Browser Instance
+2025-07-02 21:57:54,254 - Log4JLogging -INFO - Opened Browser Instance
+2025-07-02 21:57:54,308 - Log4JLogging -INFO - Implicit wait added
+2025-07-02 21:57:55,362 - Log4JLogging -INFO - Application launched
+2025-07-02 21:58:25,111 - Log4JLogging -INFO - Opened Browser Instance
+2025-07-02 21:58:25,151 - Log4JLogging -INFO - Implicit wait added
+2025-07-02 21:58:26,014 - Log4JLogging -INFO - Application launched
+2025-07-02 22:00:26,980 - Log4JLogging -INFO - Opened Browser Instance
+2025-07-02 22:00:27,032 - Log4JLogging -INFO - Implicit wait added
+2025-07-02 22:00:28,895 - Log4JLogging -INFO - Application launched
+2025-07-02 22:02:30,701 - Log4JLogging -INFO - Opened Browser Instance
+2025-07-02 22:02:30,764 - Log4JLogging -INFO - Implicit wait added
+2025-07-02 22:02:31,665 - Log4JLogging -INFO - Application launched
+2025-07-02 23:02:46,293 - Log4JLogging -INFO - Opened Browser Instance
+2025-07-02 23:02:46,336 - Log4JLogging -INFO - Implicit wait added
+2025-07-02 23:02:47,306 - Log4JLogging -INFO - Application launched
+2025-07-02 23:03:17,346 - Log4JLogging -INFO - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#emails"}
+  (Session info: chrome=138.0.7204.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-2PCDKALS', ip: '192.168.0.124', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.97, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\Vijay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59547}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e6039bb60035d372a949977dd172e5eb
+*** Element info: {Using=id, value=emails}
+2025-07-02 23:03:17,347 - Log4JLogging -INFO - Element not found
+2025-07-02 23:03:57,036 - Log4JLogging -INFO - Opened Browser Instance
+2025-07-02 23:03:57,082 - Log4JLogging -INFO - Implicit wait added
+2025-07-02 23:03:57,849 - Log4JLogging -INFO - Application launched
+2025-07-02 23:04:27,918 - Log4JLogging -INFO - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#emails"}
+  (Session info: chrome=138.0.7204.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-2PCDKALS', ip: '192.168.0.124', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.97, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\Vijay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59634}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c0b75e494b3d9448310ce3bcd78a898a
+*** Element info: {Using=id, value=emails}
+2025-07-02 23:04:59,055 - Log4JLogging -INFO - Opened Browser Instance
+2025-07-02 23:04:59,090 - Log4JLogging -INFO - Implicit wait added
+2025-07-02 23:04:59,906 - Log4JLogging -INFO - Application launched
+2025-07-02 23:05:29,991 - Log4JLogging -INFO - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#emails"}
+  (Session info: chrome=138.0.7204.97)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:25:48'
+System info: host: 'LAPTOP-2PCDKALS', ip: '192.168.0.124', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.3'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 138.0.7204.97, chrome: {chromedriverVersion: 137.0.7151.119 (e0ac9d12dff..., userDataDir: C:\Users\Vijay\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59932}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e315b5f168a14462830d835282e5ed9a
+*** Element info: {Using=id, value=emails}
