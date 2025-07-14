@@ -12,9 +12,9 @@ public class Array2 {
 		System.out.println(s.length);//2
 		System.out.println(b.length);//5
 		
-		System.out.println(a[5]);
-		System.out.println(b[4]);
-		System.out.println(s[1]);
+		System.out.println(a[5]);//Selenium
+		System.out.println(b[4]);//5
+		System.out.println(s[1]);//Hello
 		
 		a[5]= "Automation";//modifying an array value using index
 		System.out.println(a[5]);//Automation
